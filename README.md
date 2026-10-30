@@ -43,3 +43,11 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 ### How to Cite it:
 
 **SILVA, Ergon Cugler de Moraes. Twitter to Sheets: Transforming a .js File to a Google Sheets. (mar) 2023. Avaliable at: <a>https://github.com/ergoncugler/twitter-to-sheets-transforming-a-.js-file-to-a-google-sheets/<a>.**
+
+___
+
+## License
+
+The code in this repository are released under the [MIT License](LICENSE). You are free to use and adapt them, provided you give appropriate credit. If this work supports your research, please cite it.
+
+Developed by [Ergon Cugler](https://ergoncugler.com).
