@@ -42,7 +42,7 @@ Ergon Cugler de Moraes Silva, from Brazil, mailto: <a href="contato@ergoncugler.
 
 ### How to Cite it:
 
-**SILVA, Ergon Cugler de Moraes. Twitter to Sheets: Transforming a .js File to a Google Sheets. (mar) 2023. Avaliable at: <a>https://github.com/ergoncugler/twitter-to-sheets-transforming-a-.js-file-to-a-google-sheets/<a>.**
+**SILVA, Ergon Cugler de Moraes. Twitter to Sheets: Transforming a .js File to a Google Sheets. (mar) 2023. Available at: <a>https://github.com/ergoncugler/twitter-to-sheets-transforming-a-.js-file-to-a-google-sheets/<a>.**
 
 ___
 
